@@ -4,8 +4,7 @@ RSpec.configure do |config|
 
   def bash_hash
     monopoly = {
-      :railroads => {
-      }
+      :railroads => nil
     }
   end
 
