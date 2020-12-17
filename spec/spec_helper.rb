@@ -6,3 +6,5 @@ RSpec.configure do |config|
   end
 
 end
+
+monopoly = {:railroads => {}}
