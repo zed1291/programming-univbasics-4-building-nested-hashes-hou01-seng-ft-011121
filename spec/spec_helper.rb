@@ -3,7 +3,7 @@ require 'yaml'
 RSpec.configure do |config|
 
   def bash_hash
-    monopoly {:railroads => "train"}
+    monopoly = {:railroads => "train"}
   end
 
 end
